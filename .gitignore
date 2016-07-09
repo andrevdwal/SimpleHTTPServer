@@ -16,6 +16,7 @@
 _obj
 _test
 _public
+_build
 
 # Architecture specific extensions/prefixes
 *.[568vq]
