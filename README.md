@@ -33,3 +33,8 @@ _public/index.html        http://localhost:5050 or http://localhost:5050/index.h
 _public/about.html        http://localhost:5050/about.html
 _public/blog/index.html   http://localhost:5050/blog or http://localhost:5050/blog/index.html
 ~~~
+
+### Donations ###
+If you're in a good mood and feel like cheering me up:
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NC9B4QUU3JZRJ)
