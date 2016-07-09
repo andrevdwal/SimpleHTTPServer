@@ -11,7 +11,6 @@ import (
 )
 
 const (
-	version     = "1.0.1"
 	internalErr = 100
 )
 
@@ -20,6 +19,7 @@ var (
 	root = flag.String("d", "_public", "root directory to serve")
 	linf = log.New(os.Stdout, "", 0)
 	lerr = log.New(os.Stderr, "ERROR ", 0)
+	version = "0.0.0" // set when built
 )
 
 func main() {
