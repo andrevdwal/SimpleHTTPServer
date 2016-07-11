@@ -2,15 +2,11 @@
 
 A very simple file server to code static web content against instead of having to setup a more complicated webserver.
 
-### Install ###
-
-You can download the latest binaries under the [Downloads](../../downloads) section or compile it yourself (see below) if you do not find a relevant version.
-
 ### Compile ###
 
 Go is required: [https://golang.org/](https://golang.org/)
 
-    go get -u bitbucket.org/andrevdwal/simplehttpserver
+    go get -u github.com/andrevdwal/simplehttpserver
 
 To build:
 
